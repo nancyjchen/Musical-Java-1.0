@@ -12,7 +12,7 @@ Have fun! :D
 -----
 
 The songs can be found on MuseScore. I made sure to pick the songs that (a) aren't under a license, (b) had a copyright waiver, or (c) are in the public domain.
-Song include: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug. 
+Song include: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug.   
 
 -----
 
