@@ -16,4 +16,4 @@ Song include: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' Fro
 
 -----
 
-This program is not affiliated, associated, authorized, endorsed by, or in any way officially connected to any organizations, companies, or their subsidaries. 
+This program is not affiliated, associated, authorized, endorsed by, or in any way officially connected to any organizations, companies, or their subsidaries.
