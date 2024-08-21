@@ -9,6 +9,8 @@ Overall, this program allowed me to combine my music & computer science knowledg
 
 Have fun! :D
 
+Date Created: October 15, 2023
+
 -----
 
 The songs can be found on MuseScore. I made sure to pick the songs that (a) aren't under a license, (b) had a copyright waiver, or (c) are in the public domain.
