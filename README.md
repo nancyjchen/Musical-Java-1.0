@@ -1,20 +1,18 @@
 # Musical-Java-1.0
-Musical Java 1.0 is a simple, easy to use program that allows the user to play songs, which are already pre-coded into the program. With the use of JFugue, the user can choose what instrument plays the song. 
-Some challenges I've faced is adding in dynamics (soft & loud) into the song, as there were many times where the mistake can be hard to find. 
 
-I recommend running this project on Visual Studio Code, since that's the IDE that I used to create this project. 
-However, if you're planning to run this project on other IDEs such as IntelliJ or Eclipse, make sure to include the files from the /lib/ and /src/ folders & the image files. 
+Purpose: Allow users to play pre-coded songs in any instrument they select
+Challenges: Incorporating dynamics (soft & loud volume) into the song and formatting the music into code, since mistakes are hard to find
+Overall: Combining my computer science and music knowledge, I had fun making this project. :)
 
-Overall, this program allowed me to combine my music & computer science knowledge.
+**Recommended IDE**: Visual Studio Code
+For other IDEs, make sure to include the files from the /lib/ and /src/ folders as well as the image files. 
 
-Have fun! :D
-
-Date Created: October 15, 2023
+**Date Created**: October 15, 2023
 
 -----
 
-The songs can be found on MuseScore. I made sure to pick the songs that (a) aren't under a license, (b) had a copyright waiver, or (c) are in the public domain.
-Song include: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug.   
+The songs can be found on MuseScore. Those songs (a) aren't under a license, (b) had a copyright waiver, and/or (c) are in the public domain.
+**Included Songs**: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug.   
 
 -----
 
