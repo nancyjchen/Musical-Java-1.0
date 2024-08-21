@@ -14,6 +14,6 @@ For other IDEs, make sure to include the files from the /lib/ and /src/ folders 
 The songs can be found on MuseScore. Those songs (a) aren't under a license, (b) had a copyright waiver, and/or (c) are in the public domain.
 **Included Songs**: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug.   
 
------
+----
 
-This program is not affiliated, associated, authorized, endorsed by, or in any way officially connected to any organizations, companies, or their subsidaries.
+A project made as a junior at Brooklyn Technical High School for my AP Computer Science A course. 
